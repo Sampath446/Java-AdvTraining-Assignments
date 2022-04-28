@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+D:\Java Advance Training Assignments\Core Java Assignments\Problem Statement 1\.metadata\.plugins\org.eclipse.jdt.core
-273157712.index
-1865797976.index
-2302762986.index
-4266028924.index
