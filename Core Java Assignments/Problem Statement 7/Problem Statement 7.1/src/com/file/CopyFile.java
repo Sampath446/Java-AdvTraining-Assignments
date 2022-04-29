@@ -56,10 +56,8 @@ public class CopyFile {
 	        close(fr); 
 	        close(fw); 
 	    } 
-	} 
-	
-class File {
-public static void close(Closeable stream) { 
+	}
+	public static void close(Closeable stream) { 
 	    try { 
 	        if (stream != null) { 
 	            stream.close(); 
@@ -69,5 +67,4 @@ public static void close(Closeable stream) {
 	        } 
 	    }
 }
-
-}
+	
